@@ -1,0 +1,13 @@
+E:\Interlink\inCamp\lectures\calendar\calendar\bin\Debug\netcoreapp3.1\calendar.exe
+E:\Interlink\inCamp\lectures\calendar\calendar\bin\Debug\netcoreapp3.1\calendar.deps.json
+E:\Interlink\inCamp\lectures\calendar\calendar\bin\Debug\netcoreapp3.1\calendar.runtimeconfig.json
+E:\Interlink\inCamp\lectures\calendar\calendar\bin\Debug\netcoreapp3.1\calendar.runtimeconfig.dev.json
+E:\Interlink\inCamp\lectures\calendar\calendar\bin\Debug\netcoreapp3.1\calendar.dll
+E:\Interlink\inCamp\lectures\calendar\calendar\bin\Debug\netcoreapp3.1\calendar.pdb
+E:\Interlink\inCamp\lectures\calendar\calendar\obj\Debug\netcoreapp3.1\calendar.csprojAssemblyReference.cache
+E:\Interlink\inCamp\lectures\calendar\calendar\obj\Debug\netcoreapp3.1\calendar.AssemblyInfoInputs.cache
+E:\Interlink\inCamp\lectures\calendar\calendar\obj\Debug\netcoreapp3.1\calendar.AssemblyInfo.cs
+E:\Interlink\inCamp\lectures\calendar\calendar\obj\Debug\netcoreapp3.1\calendar.csproj.CoreCompileInputs.cache
+E:\Interlink\inCamp\lectures\calendar\calendar\obj\Debug\netcoreapp3.1\calendar.dll
+E:\Interlink\inCamp\lectures\calendar\calendar\obj\Debug\netcoreapp3.1\calendar.pdb
+E:\Interlink\inCamp\lectures\calendar\calendar\obj\Debug\netcoreapp3.1\calendar.genruntimeconfig.cache
